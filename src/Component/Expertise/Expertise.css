@@ -1,0 +1,8 @@
+.progress-bar {
+  background-color: #494559 !important;
+  /* background-color: tomato !important; */
+}
+.progress {
+  height: 25px !important;
+  border-radius: 0px !important;
+}
