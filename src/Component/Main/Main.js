@@ -7,8 +7,6 @@ import Expertise from '../Expertise/Expertise';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import Home from '../Home/Home';
-import Particle from '../Particle/Particle';
-import ProjectDetails from '../ProjectDetails/ProjectDetails';
 
 const Main = () => {
     return (
@@ -33,9 +31,6 @@ const Main = () => {
                     </Route>
                     <Route path='/contact'>
                         <ContactMe></ContactMe>
-                    </Route>
-                    <Route path='/project/:id'>
-                        <ProjectDetails></ProjectDetails>
                     </Route>
                 </Switch>
                 <Footer></Footer>
