@@ -1,20 +1,25 @@
-import React from 'react';
-import { useForm } from 'react-hook-form';
 import './ContactMe.css';
+import swal from 'sweetalert';
+
 import emailjs from 'emailjs-com';
 
 const ContactMe = () => {
-    const { register, handleSubmit } = useForm();
+
+
     const sendEmail = e => {
         e.preventDefault();
         emailjs.sendForm('service_eggg4oi', 'hafiz_portfolio', e.target, 'user_Vg0LQwZnKS1LQFHkDeeum')
             .then((result) => {
-                console.log(result.text);
+                // console.log(result.text);
+                if (result.text === 'OK') {
+                    swal("Good job!", "Email Successfully send!", "success");
+                }
             }, (error) => {
                 console.log(error.text);
             });
         e.target.reset();
     };
+
     return (
         <div className='container py-5'>
             <div className="contact-heading py-5" data-aos="fade-left">
