@@ -17,13 +17,13 @@ const ContactMe = () => {
     };
     return (
         <div className='container py-5'>
-            <div className="contact-heading py-5">
+            <div className="contact-heading py-5" data-aos="fade-left">
                 <p style={{ fontSize: '19px', color: 'tomato', marginBottom: '3px' }}>Contact Me</p>
                 <h1 className="fw-bold text-white">GET IN TOUCH</h1>
             </div>
             <div className="row">
                 <div className="col-md-8 col-12">
-                    <form onSubmit={sendEmail} className='contact-form'>
+                    <form onSubmit={sendEmail} className='contact-form' data-aos="fade-up">
                         <input style={{ marginRight: '17px' }} className='half-width-input p-2' type="text" name="name" id="" required placeholder="Name" />
                         <input className='half-width-input p-2' type="email" name="user_email" id="" required placeholder="Email" />
                         <input className='full-width-input p-2' type="text" name="subject" id="" required placeholder="Subject" />
@@ -36,7 +36,7 @@ const ContactMe = () => {
                 </div>
 
                 <div className="col-md-4 col-12">
-                    <div className="row">
+                    <div className="row" data-aos="fade-down">
 
                         <div className="col-md-2 col-2">
                             <div className="call-me-logo">

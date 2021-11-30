@@ -37,3 +37,6 @@
   left: -16px;
   top: 10px;
 }
+.edu-info:hover {
+  border-right: 1px solid gray;
+}

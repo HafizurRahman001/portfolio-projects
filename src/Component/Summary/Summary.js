@@ -4,7 +4,7 @@ import './Summary.css';
 const Summary = () => {
     return (
         <div>
-            <div className="summary">
+            <div className="summary" data-aos="fade-down">
                 <div className="row ps-2">
                     <div style={{ paddingBottom: '5px' }} className="col-md-4 col-12">
                         <div style={{ borderRight: '1px solid #707070' }} className="job-experience d-flex">

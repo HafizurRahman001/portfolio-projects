@@ -10,35 +10,35 @@
         "id": "2",
         "img": "https://blogger.googleusercontent.com/img/a/AVvXsEi1KqBjK6m1JyI49h72rdYhqqiSWjWoITivpXP3uUz80URtbvcgEaovNytF7PnDt-d6PYmShOD3R1KTFII_mH56x0C4L5tPLKSuQt_JafIOAXXa06fIQ3lvZpC4-mM6TZmfyb0YkDV6xdeFNMcNydJqU0INFOUuTqmP9l12R9Ovrmlmj9dupWa5Wn5-2A=s1897",
         "name": "VISIT BANGLADESH",
-        "features": "Google Firebase Authentication. Admin Dashboard panel for add or delete services. Option for add new services on homepage. You can find out beautiful and travelling places of Bangladesh. You can choose place and book hotel. You will get a pretty chances to travel Bangladesh. By this site you can find out your all booking lists. You also can manage all Booking and have get a chances to place new beautiful place.",
+        "features": "Google Firebase Authentication. Admin Dashboard panel for add or delete services. Option for add new services on homepage. You can find out beautiful and travelling places of Bangladesh. By this site you can find out your all booking lists. You also can manage all Booking and have get a chances to place new beautiful place.",
         "preview": "https://visit-bangladesh-eb357.web.app/"
+    },
+    {
+        "id": "4",
+        "img": "https://blogger.googleusercontent.com/img/a/AVvXsEi8Fk5EzOMEBMa_nnczy8SSLrWOLFTRc4DFWdW9kF5NqFCovWc4n_MC0nLXPSKiZ51cugYWkJputCcIy_4amnRBwK_g8BgVo0zQTttbXUkdVUmN5pUUN8nwB42Hc6anwgzYYCjhOOJIuzbQCE0mXAt5hivnhTMc-D0HwScpYepvEQwK8-oU7wuEbTpa2Q=s1899",
+        "name": "MEDI CARE",
+        "features": "implement of google firebase authentication system. implementation of user logIn logOut system. implementation of more details button and changing route. implementation of displaying the disease and doctor's details information.",
+        "preview": "https://medi-care-9e685.web.app/"
     },
     {
         "id": "3",
         "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhjs7ETydIY6ARX2_an191giKGF8rTrGou0KGocvYaJhS1a5oiXbPoDaJfqUT-JjLvi9UWBXwEQWoZuo-IlBIEnI4P5cFIYblPBULc46TP3AsyZ6y0xjqe2hagUMiWmmp5CxE0ZbWSCaDz51Isf7U6nQA5riB8bdQg-MHQoxCmqo6osPBRfeXbaHpAqNg=s1898",
         "name": "HOT ONION",
-        "features": "implement of google firebase authentication system. implementation of admin dashboard for manage products. implementation of react rating for user reviews. implementation of email form for making an user as admin. implementation of react zoom in and slide left animation",
+        "features": "implement of Add to Cart system. implementation of food filtering system. implementation of user personal information form. implementation of increasing of food quantity. implementation of displaying user delivery information",
         "preview": "https://hot-onion-919c1.firebaseapp.com/"
-    },
-    {
-        "id": "4",
-        "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjKFmq_8jgknRu15ubIU8Bl2MvzKzqqNsFRn66wZDKIpOnPPH8X7Di2yqSPZrRmwnlmllEOhvKavhxTCy0x_ojV43MSNlBbL4J9E_Csdw4YNdWcTsnIwwLrV3xybUpJuit9Nptjz7GJZHVdof0CMD8fRns-DHeJpWP4rGTtEUfMHJWmbsTrvjfEZCnZsA=s1898",
-        "name": "MEDI CARE",
-        "features": "implement of google firebase authentication system. implementation of admin dashboard for manage products. implementation of react rating for user reviews. implementation of email form for making an user as admin. implementation of react zoom in and slide left animation",
-        "preview": "https://medi-care-9e685.web.app/"
     },
     {
         "id": "5",
         "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiv8XKPZurQJb8sDG2FItN3eZ_6PRf2ZvZx0T37IjjG6Qj55_gbV_Ma0WQvpPXYtGSU-OaxYU9G7pMWKJfISTZtCStBJXDmPPs_7n91oNcSh1ur9I4nOOsUmYD76_2F84__0ZjIGYEt0m6iN_D9KHWvfePR5d6lCpKyPseVyCyyBA1HxmUay6fUNEoxEw=s1897",
-        "name": "RANGA STORE",
-        "features": "implement of google firebase authentication system. implementation of admin dashboard for manage products. implementation of react rating for user reviews. implementation of email form for making an user as admin. implementation of react zoom in and slide left animation",
+        "name": "PURCHASE HOUSE",
+        "features": "implement of product add to cart system. implementation of displaying total product rate. implementation of displaying shipping charge based on price rate. implementation of tax system based on price rate.",
         "preview": "https://assignment-07-30ac20.netlify.app/"
     },
     {
         "id": "6",
         "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjofY6spE5wxND-mAbLXqIpxiZmC6cTvhFx07RcFNxRIVdGNW01nBsSII6HhYF3rTJX_xIG4xoXuZ_Eg5AT-5EwPb8RRwpbvYb7_SK5iuk1vGClawGL8OoeTWKwxaDZGoplaAVhfzf2ME2bns83xOSCaAn1H3q0r6-h8ynkROADknCSOw_aAcN6BHFynQ=s1898",
         "name": "CURRENT PRIMEMINISTER",
-        "features": "implement of google firebase authentication system. implementation of admin dashboard for manage products. implementation of react rating for user reviews. implementation of email form for making an user as admin. implementation of react zoom in and slide left animation",
+        "features": "implement of a short list of current prime minister 2021. implementation of Add to the cart list system. implementation total added prime minister. implementation of total salary of selected prime minister. implementation of displaying the selected prime minister name",
         "preview": "https://current-prime-minister-2021-a68747.netlify.app/"
     }
 ]

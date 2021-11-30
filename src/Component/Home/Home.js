@@ -5,7 +5,6 @@ import ContactMe from '../ContactMe/ContactMe';
 import Education from '../Education/Education';
 import Expertise from '../Expertise/Expertise';
 import Projects from '../Projects/Projects';
-import SideNav from '../SideNav/SideNav';
 import Summary from '../Summary/Summary';
 
 const Home = () => {
@@ -13,7 +12,6 @@ const Home = () => {
         <div style={{ backgroundColor: '#141628' }}>
             <Banner></Banner>
             <Summary></Summary>
-            <SideNav></SideNav>
             <About></About>
             <Education></Education>
             <Projects></Projects>

@@ -7,13 +7,13 @@ const Footer = () => {
             <div style={{ fontSize: '30px' }} className="footer py-5">
 
                 <a href="https://github.com/HafizurRahman001" target="_blank">
-                    <i class="fab fa-github"></i>
+                    <i className="fab fa-github"></i>
                 </a>
                 <a href="https://www.linkedin.com/in/hafzur-rahman/" target="_blank">
-                    <i class="fab fa-linkedin-in"></i>
+                    <i className="fab fa-linkedin-in"></i>
                 </a>
                 <a href="https://twitter.com/hafizur_rahmann" target="_blank">
-                    <i class="fab fa-twitter"></i>
+                    <i className="fab fa-twitter"></i>
                 </a>
 
                 <div className="footer-logo"></div>

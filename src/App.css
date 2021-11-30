@@ -14,11 +14,21 @@ a {
 a:hover {
   color: #31d2f2;
 }
+
 .css-jzk4qw-MuiPaper-root-MuiAppBar-root {
   background-color: tomato !important;
 }
+
+/* bootstrap css overwrite  */
 #topcontrol img {
   width: 50px;
+}
+.modal-header {
+  background-color: #f81d45;
+  color: white;
+}
+.fade {
+  transition: opacity 0.3s linear !important;
 }
 
 @media only screen and (max-width: 688px) {

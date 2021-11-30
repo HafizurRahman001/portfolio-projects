@@ -23,19 +23,19 @@ const About = () => {
                         <div style={{ color: 'rgb(92 91 91)' }} className="info-div py-5">
                             <div className="row">
                                 <div className="col-md-3 col-3">
-                                    <p style={{ color: 'rgb(152 152 152)' }}><i style={{ color: 'tomato' }} className="far pe-2 fa-user"></i> Name</p>
-                                    <p style={{ color: 'rgb(152 152 152)' }}><i style={{ color: 'tomato' }} className="fas pe-2 fa-phone"></i> Phone</p>
-                                    <p style={{ color: 'rgb(152 152 152)' }}><i style={{ color: 'tomato' }} className="far pe-2 fa-envelope"></i> Email</p>
+                                    <p style={{ color: 'rgb(152 152 152)' }} data-aos="flip-left"><i style={{ color: 'tomato' }} className="far pe-2 fa-user"></i> Name</p>
+                                    <p style={{ color: 'rgb(152 152 152)' }} data-aos="flip-left"><i style={{ color: 'tomato' }} className="fas pe-2 fa-phone"></i> Phone</p>
+                                    <p style={{ color: 'rgb(152 152 152)' }} data-aos="flip-left"><i style={{ color: 'tomato' }} className="far pe-2 fa-envelope"></i> Email</p>
                                 </div>
-                                <div className="col-md-2 col-2">
+                                <div className="col-md-2 col-2" data-aos="fade-left">
                                     <p>:</p>
                                     <p>:</p>
                                     <p>:</p>
                                 </div>
                                 <div className="col-md-7 col-7">
-                                    <p style={{ color: 'rgb(152 152 152)' }}>Md. Hafizur Rahman</p>
-                                    <p style={{ color: 'rgb(152 152 152)' }}>+880 1910674261</p>
-                                    <p style={{ color: 'rgb(152 152 152)' }}>hafizurrahmanbu@gmail.com</p>
+                                    <p style={{ color: 'rgb(152 152 152)' }} data-aos="flip-left">Md. Hafizur Rahman</p>
+                                    <p style={{ color: 'rgb(152 152 152)' }} data-aos="flip-left">+880 1910674261</p>
+                                    <p style={{ color: 'rgb(152 152 152)' }} data-aos="flip-left">hafizurrahmanbu@gmail.com</p>
                                 </div>
                             </div>
                         </div>

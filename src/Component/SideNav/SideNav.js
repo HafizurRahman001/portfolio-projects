@@ -18,8 +18,8 @@ const SideNav = () => {
                 <Link to='/about'>ABOUT</Link>
                 <Link to='/contact'>CONTACT</Link>
                 <Link to='/experience'>EXPERTISE</Link>
-                <Link to='/qualification'>QUALIFICATION</Link>
-                <Link to=''>CLIENTS</Link>
+                <Link to='/qualification'>EDUCATION</Link>
+                <Link to='/projects'>PROJECTS</Link>
             </div>
             <span style={{ fontSize: "30px", cursor: "pointer", color: 'white', paddingLeft: '15px' }} onClick={openNav}>&#9776; MENU</span>
 
